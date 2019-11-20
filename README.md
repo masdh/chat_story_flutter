@@ -16,10 +16,11 @@ I myself use Windows, and with that, I for the moment can only emulate Flutter f
 - [VSCode](https://flutter.io/get-started/editor/#vscode)
 
 #### The App Itself
-The Chat Story Application is developed with the following design in mind, where Saepul Rohman did not provide any needed fonts, nor color schemes. 
-https://dribbble.com/shots/7900489-Chat-Story-App
+The Chat Story Application is developed with the following design in mind, where Saepul Rohman kindly provided the needed fonts and color schemes. 
+https://dribbble.com/shots/7900489-Chat-Story-App & at
+https://www.behance.net/gallery/87997107/Chat-Story-App
 
-<img src="./img/Discover_Page.png" height="320" width="180"><img src="./img/Movie_Page.png" height="320" width="180">
+<img src="./img/HomeScreen_1.png" height="320" width="180"><img src="./img/HomeScreen_2.png" height="320" width="180"><img src="./img/AboutScreen.png" height="320" width="180"><img src="./img/StoryScreen.png" height="320" width="180">
 
 The application was developed to work on every phone. The result will be showcased below on a Pixel 2, with API 28.
 
