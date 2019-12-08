@@ -2,7 +2,7 @@
 
 This is another minor mobile application built in Flutter with the purpose to re-learn Flutter and all the widgets it provides 🔥.
 
-This repo is a continuation of understanding app development with Flutter and Dart. This is my weekly goal for **week 48**, where the focus is to make any screen responsive.
+This repo is a continuation of understanding app development with Flutter and Dart. This is my weekly goal for **week 2 2020**, where the focus is to make any screen responsive.
 
 #### Flutter
 
